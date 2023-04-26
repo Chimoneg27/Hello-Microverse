@@ -1,8 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <h3><b>Hello Microverse README file</b></h3>
-
 </div>
 
 # 📗 Table of Contents
@@ -61,21 +56,6 @@ If you like this project I really appreciate it. Please let me now by sending me
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank the code reviewers Diego Garcia and Ayesha Arshad. They have been great in assesing my code and givivng me the necessary feedback. Thank you.
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[What do you think about my project?]**
-
-  - [Answer_1]
-
-- **[Is it really confusing on the first day? Will I improve?]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
