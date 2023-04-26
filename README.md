@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Hello World README file</b></h3>
+  <h3><b>Hello Microverse README file</b></h3>
 
 </div>
 
@@ -44,8 +44,6 @@ There is nothing much in this project. As mentioned in the about section. This p
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Adding content to the body of the html file]**
 - [ ] **[Adding JavaScript code intot the project]**
 - [ ] **[More CSS styling to make the web page more appealing]**
@@ -58,13 +56,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project I really appreciate it. Please let me now by sending me a direct message on my twitter account.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the code reviewers Diego Garcia and Ayesha Arshad. They have been great in assesing my code and givivng me the necessary feedback. Thank you.
 
@@ -86,7 +80,5 @@ I would like to thank the code reviewers Diego Garcia and Ayesha Arshad. They ha
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
